@@ -9,3 +9,12 @@ FOR FUNCTION = THE COMPLETE CODE INSIDE THE FUNCTION
 After alocation it reads it again and assign the values in the execution context 
 for exam var n = 3;
 so first a memory will be allocated as n which will be undefined after complete allocation the n will be defined by 3
+
+//OUR FIRST CODE
+
+console.log("FIRST JS CODE");  
+
+{ //Here console.log is used for printing //}
+
+
+
