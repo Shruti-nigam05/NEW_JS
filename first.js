@@ -45,3 +45,20 @@ console.log(d);
 console.log(d2);
 
 
+let myDate = new Date();
+
+console.log(myDate);
+console.log("time "+myDate.getTime());
+console.log("full year "+myDate.getFullYear());
+console.log("getday "+myDate.getDay());
+console.log("date "+myDate.getDate());
+console.log(myDate.getMinutes());
+console.log(myDate.getHours());
+
+let myElem = document.getElementById('heading');
+
+console.log(myElem);
+
+
+
+

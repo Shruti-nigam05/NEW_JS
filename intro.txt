@@ -14,7 +14,7 @@ so first a memory will be allocated as n which will be undefined after complete 
 
 console.log("FIRST JS CODE");  
 
-{ //Here console.log is used for printing //}
+{ //Here console.log is used for printing in console //}
 
 
 
